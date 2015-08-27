@@ -1,4 +1,7 @@
-
+/* Q 3.1 (pg80) 
+ * Author: Sang Lin
+ * Date: 08/26/2015
+ */
 public class FixedArrayStack {
 
 	int stackSize = 100;
